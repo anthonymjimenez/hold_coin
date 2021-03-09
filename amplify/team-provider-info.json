@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "holdcoin526c9dad": {}
+      },
+      "function": {
+        "cryptofunction": {
+          "deploymentBucketName": "amplify-holdcoin-dev-13839-deployment",
+          "s3Key": "amplify-builds/cryptofunction-6b727449377075535a78-build.zip"
+        }
       }
     }
   }

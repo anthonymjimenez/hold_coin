@@ -1,0 +1,7 @@
+{
+    "tableName": "cryptoDB",
+    "partitionKeyName": "symbol",
+    "partitionKeyType": "S",
+    "sortKeyName": "name",
+    "sortKeyType": "S"
+}
