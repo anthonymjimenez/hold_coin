@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "holdcoin526c9dad": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
